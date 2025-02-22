@@ -51,11 +51,6 @@ We welcome contributions from the community! Follow these steps to contribute:
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 📬 Contact
-For questions or collaborations, reach out via:
-- **Email**: contact@drm.io
-- **Twitter**: [@drm_official](https://twitter.com/drm_official)
-- **Discord**: [Join our community](https://discord.gg/drm)
 
 Let’s revolutionize research together! 🚀
 
